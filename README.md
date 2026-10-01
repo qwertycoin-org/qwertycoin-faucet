@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **ARCHIVED LEGACY FAUCET — DO NOT DEPLOY OR FUND.**
+> This PHP/MySQL application uses retired wallet RPC assumptions and an
+> unsupported dependency stack. There is no supported Qwertycoin v2 faucet
+> successor. Use the current [wallet RPC documentation](https://docs.qwertycoin.org/)
+> if a new, independently reviewed service is required. Never attach a funded
+> wallet to this historical application.
+
 ##Qwertycoin Faucet Installation##
 
 This faucet runs on a linux environment with PHP and MYSQL, and it was tested on Ubuntu 15.04 with PHP 5.6.4 and MariaDB 5.5.
